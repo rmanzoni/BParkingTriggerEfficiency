@@ -1,0 +1,21 @@
+# Data and models
+*.pt
+*.pkl
+*.root
+
+# Plots
+*.png
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
